@@ -19,5 +19,18 @@ tbody tr:nth-child(odd) {
 }
 
 .notes {
-  width: 16em;
+  width: 16
+  em;
+}
+
+table {
+  min-width: 50em;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .table-wrapper {
+    overflow: visible;
+  }
+
 }
