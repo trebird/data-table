@@ -19,8 +19,7 @@ tbody tr:nth-child(odd) {
 }
 
 .notes {
-  width: 16
-  em;
+  width: 16em;
 }
 
 table {
